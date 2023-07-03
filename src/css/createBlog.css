@@ -1,0 +1,36 @@
+.Container {
+    background-color: orange;
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.form-box{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 400px;
+    height: 450px;
+    margin-top: 7%;
+    margin-bottom: 6%;
+    margin-left: 35%;
+    flex-direction: column;
+    background-color: rgb(240, 239, 209);
+    border-width: 2;
+    border-radius: 5%;
+    /* z-index: 2; */
+    box-shadow: 1;
+}
+
+.Name {
+    width: 70%;
+}
+
+.Description {
+    width: 70%;
+}
+
+.Category {
+    width: 70%;
+}
+
