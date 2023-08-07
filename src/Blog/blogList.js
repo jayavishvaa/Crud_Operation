@@ -29,6 +29,7 @@ const FilterList = [
 
 function BlogList() {
     const state = useContext(BlogContext);
+    
     const [categoryFilter, setCategoryFilter] = useState('All');
     const [currentPage, setCurrentPage] = useState(1);
     const [blogsPerPage] = useState(6);

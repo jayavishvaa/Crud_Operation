@@ -3,7 +3,7 @@ import React, { createContext, useReducer } from "react";
 
 
 const initialState = [
-    // {id:1, name: 'Jayavishvaa', description: 'SDE-1', category: 'Sports'},
+    // {id:1, name: 'Javishvaaay', description: 'SDE-1', category: 'Sports'},
     // {id:2, name: 'Jvishvaa', description: 'SDE', category: 'Entertainment'},
     // {id:3, name: 'Sharath', description: 'SDE', category: 'Education'},
     // {id:4, name: 'Girish', description: 'SDE', category: 'Entertainment'},
